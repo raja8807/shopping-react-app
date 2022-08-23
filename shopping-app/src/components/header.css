@@ -1,0 +1,36 @@
+*{
+    transition: 0.2s;
+}
+
+header{
+    background-color:cadetblue;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    /* background-color: red;*/
+} 
+.header-wrapper{
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+
+}
+.logo:hover{
+    color: red;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+nav a:hover{
+    color: white;
+}
+
