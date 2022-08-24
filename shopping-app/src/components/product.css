@@ -4,7 +4,7 @@
 .product{
     width: 300px;
     /* border: solid 1px red; */
-    height: 400px;
+    /* height: 400px; */
     margin-bottom: 40px;
     border-radius: 20px;
 
@@ -31,7 +31,7 @@
 .product-details{
     /* border: solid 1px blue; */
     margin: 0 25px 25px 25px;
-    height: 125px;
+    /* height: 125px; */
     
 }
 h2{

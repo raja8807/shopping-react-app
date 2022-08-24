@@ -11,22 +11,24 @@ function App() {
       name:"Redmi 11",
       price:17000,
       details:"Nice Phone",
-      img:img
+      img:img,
+      offer:10
     },
 
     {
       name:"Samsung A70",
       price:35000,
       details:"Costly Phone",
-      img:img
-
+      img:img,
+      offer:20
     },
 
     {
       name:"Apple iphoe",
       price:50000,
       details:"Brand phone",
-      img:img
+      img:img,
+      offer:50
 
     },
 
@@ -34,7 +36,9 @@ function App() {
       name:"Nokia",
       price:2000,
       details:"one week battery capacity",
-      img:img
+      img:img,
+      offer:70
+
     }
   ]
 
